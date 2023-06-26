@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "c6fea959c34522f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1380c2e45afe539d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e6b24354cdaa8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/28.05.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71e9bf067dc93d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fbe558083bf3f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инструкция obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a831d9c11118dbbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "468cffb6b44d060c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4bfc6afed5bd9ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e087d68a82d83ef2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ssh",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b6bb04d3caa16d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e78dbe6ebbdb3a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7572eb1ca1176476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c2c57cfc1d1c3af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7d2c1cadd1c00cc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c2ee0ab9e1342a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e14e66e6867314ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "71e9bf067dc93d37",
+  "lastOpenFiles": [
+    "Инструкция obsidian.md",
+    "Git.md",
+    "daily/28.05.2023.md",
+    "Ключ ssh для git.md",
+    "Полезные команды.md",
+    "Спринт 7. Тема 2..md",
+    "Спринт 7. Тема 3..md",
+    "Спринт 7. Тема 4..md",
+    "Спринт 7. Тема 5..md",
+    "Спринт 7. Тема 6.md",
+    "daily/23.05.2023.md",
+    "daily/21.05.2023.md",
+    "daily/22.05.2023.md",
+    "files/Снимок экрана 2023-05-28 в 23.08.38.png",
+    "Books.md",
+    "FastAPI book.md",
+    "Основы Python.md",
+    "Список книг.md",
+    "Н†бваЃ©™† Toolbar.md",
+    "c840fb91-213f-4889-bffe-529ba9cdf29a_Установка_DjDT.pdf.md",
+    "Инокентий Мусечкин.md",
+    "Айн Рэнд. Атлант расправил плечи.md",
+    "files/work_with_user_django_yandex.pdf",
+    "files/django_learning_yandex.html",
+    "Настройка Toolbar.md",
+    "files/c840fb91-213f-4889-bffe-529ba9cdf29a_Установка_DjDT.pdf",
+    "daily/19.05.2023.md",
+    "files/Pasted image 20230519175509.png",
+    "files/Pasted image 20230519164257.png",
+    "files/Pasted image 20230519163824.png",
+    "files/Pasted image 20230519161615.png",
+    "инструкция по obsidian.md",
+    "daily/05.05.2023.md",
+    "Атлант расправил плечи.md",
+    "files/Pasted image 20230518012247.png",
+    "files/Pasted image 20230518005559.png",
+    "files/Pasted image 20230518003535.png",
+    "files/Pasted image 20230517203747.png",
+    "files/Pasted image 20230517203449.png",
+    "files/Работа с пользователями в Django — Яндекс Практикум.pdf",
+    "files/Работа с пользователями в Django — Яндекс Практикум.html",
+    "daily",
+    "templates",
+    "files"
+  ]
+}
